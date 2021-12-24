@@ -1,0 +1,3 @@
+name: BungeeCommands
+version: '${project.version}'
+main: de.spigotclass.bungeecommands.BungeeCommands
